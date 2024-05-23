@@ -20,7 +20,7 @@ const Pricing = () => {
                 )}
                 {option.title === "Enterprise" && (
                   <span className="bg-gradient-to-l from-green-400 to-blue-600 text-transparent bg-clip-text text-xl mb-4 ml-2">
-                    (Mostly Recommended)
+                    (Highly Recommended)
                   </span>
                 )}
               </p>

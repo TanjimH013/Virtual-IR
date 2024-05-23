@@ -1,10 +1,10 @@
 import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
 import FeatureSection from "./components/FeatureSection";
-import WorkFlow from "./components/WorkFlow";
-import Pricing from "./components/Pricing";
-import Testimonials from "./components/Testimonials";
-import Footer from "./components/Footer";
+import WorkFlow from "./components/WorkFlowSection";
+import Pricing from "./components/PricingSection";
+import Testimonials from "./components/TestimonialsSection";
+import Footer from "./components/FooterSection";
 
 function App() {
   return (

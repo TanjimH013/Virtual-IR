@@ -5,6 +5,8 @@ import { Menu, X } from "lucide-react";
 
 import { useState } from "react";
 
+import { Link } from "react-dom";
+
 const Navbar = () => {
   const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);
 
